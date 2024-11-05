@@ -1,6 +1,6 @@
 FROM httpd:latest
 
-COPY . ./htdocs
+COPY . .
 
 EXPOSE 80
 
